@@ -8,6 +8,12 @@
 * License: MIT
 */
 
+/*
+* How to use?
+* String userName = InputHelper.getString("Enter your name: "); // if 'bob' is entered
+* System.out.println("Hello " + userName); // Hello bob
+*/
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
