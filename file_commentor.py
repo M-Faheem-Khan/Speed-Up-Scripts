@@ -3,6 +3,13 @@
 # Description: Adds comments to (JAVA + C) files
 # License: MIT
 
+'''
+How to use?
+run the program using python3 # -> python3 file_commenter.py
+Fill in the requested information
+AuthorName, Version, Description, Absolute Path to your source file.
+'''
+
 # IMPORTS
 import os
 from datetime import datetime
