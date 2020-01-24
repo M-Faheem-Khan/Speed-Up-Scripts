@@ -1,4 +1,4 @@
-# Scripts to Speed up development or otherwise redundant tasks
+## Scripts to Speed up development or otherwise redundant tasks
 Collection of Scripts to automate redundant tasks
 
 - `file_commenter.py`: Adds Header Comment to C & JAVA files
